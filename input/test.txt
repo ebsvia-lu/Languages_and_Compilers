@@ -1,0 +1,22 @@
+{
+if a <3 then{
+
+    if c < 6 then {
+        while 4 <9 {
+            if v <4 then {
+                d := 4
+            }
+            else {
+                skip
+            }
+        }
+        }
+    else {
+        if r < 5 then {
+          f := 5
+        } else {skip}
+    }
+    }
+
+    else {skip}
+}
